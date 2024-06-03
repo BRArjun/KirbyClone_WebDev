@@ -11,7 +11,7 @@ This simple game is designed using Kaboom.js for the gaming aspects. The project
 
 ## How to Play
 
-- Head over to the (site)[mykirby.vercel.app]
+- Head over to the [site](mykirby.vercel.app)
 - Use the left and right arrow keys to move
 - Use the x key to jump and the z key to swallow enemies.
 

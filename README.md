@@ -9,6 +9,12 @@ Please note that this is still under development and tweaking.
 
 This simple game is designed using Kaboom.js for the gaming aspects. The project is bootstrapped using Vite, a modern front-end build tool that optimizes JavaScript for the browser.
 
+## How to Play
+
+- Head over to the (site)[mykirby.vercel.app]
+- Use the left and right arrow keys to move
+- Use the x key to jump and the z key to swallow enemies.
+
 ## Technologies Used
 
 - **Kaboom.js**: A lightweight, easy-to-use library for creating 2D games in the browser.

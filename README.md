@@ -1,5 +1,8 @@
 <img src="./preview.png"></img>
 
+
+Please note that this is still under development and tweaking.
+
 # Kirby-like game with KaboomJS
 
 ## Overview

@@ -22,7 +22,7 @@ This simple game is designed using Kaboom.js for the gaming aspects. The project
 
 - **Kaboom.js**: A lightweight, easy-to-use library for creating 2D games in the browser.
 - **Vite**: A build tool that provides fast development server and optimized builds for production.
-
+- **Tiled**: A level editor used for making the levels.
 ## Project Setup
 
 ### Prerequisites

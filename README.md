@@ -4,6 +4,8 @@
 Please note that this is still under development and tweaking.
 This site does not work on mobile.
 
+### This is my small attempt at creating a platformer game using Javascript. 
+
 # Kirby-like game with KaboomJS
 
 ## Overview

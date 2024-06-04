@@ -16,7 +16,7 @@ This simple game is designed using Kaboom.js for the gaming aspects. The project
 - Head on over to the <a href="https://mykirby.vercel.app">site</a>.
 - Use the left and right arrow keys to move
 - Use the x key to jump and the z key to swallow enemies.
-- You can also jump more than once by pressing x repeatedly (which unintentionally resembles a Flappy Bird clone as well) :p.
+- You can also jump more than once by pressing x repeatedly (which unintentionally resembles a vague Flappy Bird clone as well) :p.
 
 ## Technologies Used
 
